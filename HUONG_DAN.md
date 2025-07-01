@@ -1,8 +1,7 @@
 # Hướng Dẫn Sử Dụng Hệ Thống Gửi File Âm Thanh An Toàn
 
-## 📋 Mô tả dự án
-
-Đây là một hệ thống mô phỏng gửi file âm thanh an toàn qua mạng không ổn định với các tính năng bảo mật tiên tiến:
+#Mô phỏng Gửi File Âm Thanh An Toàn
+#Dự án mô phỏng gửi file âm thanh an toàn qua mạng không ổn định với các tính năng bảo mật:
 
 ### 🔐 Các tính năng bảo mật:
 - **Mã hóa Triple DES**: Mỗi đoạn file được mã hóa bằng thuật toán Triple DES với SessionKey
@@ -184,14 +183,3 @@ logging.basicConfig(level=logging.DEBUG)
 - [RSA Cryptography](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [SHA-512](https://en.wikipedia.org/wiki/SHA-2)
 
-## 🤝 Đóng góp
-
-Nếu bạn muốn đóng góp vào dự án:
-1. Fork repository
-2. Tạo branch mới
-3. Commit thay đổi
-4. Push và tạo Pull Request
-
-## 📄 License
-
-Dự án này được phát hành dưới MIT License. 
